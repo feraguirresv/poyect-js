@@ -1,0 +1,38 @@
+[
+  {
+    "precio": 8000,
+    "id": 1,
+    "title": "Café Salvadoreño",
+    "img": "./img/sv1.jpg"
+  },
+  {
+    "precio": 9000,
+    "id": 2,
+    "title": "Café Brasileño",
+    "img": "./img/sv2.jpg"
+  },
+  {
+    "precio": 7000,
+    "id": 3,
+    "title": "Café Mexicano",
+    "img": "./img/sv3.jpg"
+  },
+  {
+    "precio": 7000,
+    "id": 4,
+    "title": "Café Colombiano",
+    "img": "./img/sv4.jpg"
+  },
+  {
+    "precio": 22000,
+    "id": 5,
+    "title": "Café Italiano",
+    "img": "./img/sv8.jpg"
+  },
+  {
+    "precio": 17000,
+    "id": 6,
+    "title": "Café Turco",
+    "img": "./img/sv6.jpg"
+  }
+]
